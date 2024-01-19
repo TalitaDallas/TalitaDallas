@@ -26,7 +26,7 @@
 <li>
 <b>Nome:</b> Talita</li>
 <li>
-<b>Idade:</b> 19 anos</li>
+<b>Idade:</b> 20 anos</li>
 <li>
 <b>Gosto de:</b> animes, jogos, programação e animais.
 </li>
